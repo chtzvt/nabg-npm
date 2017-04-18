@@ -1,0 +1,22 @@
+{
+  "name": "nabg",
+  "version": "1.0.2",
+  "description": "Generates new-agey bullshit. See http://sebpearce.com/bullshit and https://twitter.com/nabgbot for examples :)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ctrezevant/nabg-npm"
+  },
+  "keywords": [
+    "bullshit",
+    "new-age",
+    "generator",
+    "spiritualism",
+    "nabgbot"
+  ],
+  "author": "Charlton Trezevant and Seb Pearce",
+  "license": "MIT"
+}
